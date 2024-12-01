@@ -1,10 +1,10 @@
 # superqIAan
 
-Hello!
+llo!
 Ths is qAIn, welcome
 
 Q
 AI
-
+N
 
 gAIthub
