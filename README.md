@@ -22,4 +22,5 @@
     ```bash
     chmod +x story-geth
     chmod +x story
+
     ```
